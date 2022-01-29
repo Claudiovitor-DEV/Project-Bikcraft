@@ -1,2 +1,2 @@
 # Project-Bikcraft-Origamid
- Projeto do site "bikcraft", do curso origamid Web design completo.
+ Practice project of the website "bikcraft", of the complete origamid Web design course, taught by Professor Andre Rafael from ORIGAMID.
